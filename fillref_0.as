@@ -1,0 +1,2 @@
+Ptr	.fill	Target
+	halt
